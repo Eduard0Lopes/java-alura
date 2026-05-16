@@ -8,6 +8,7 @@ public class Main {
          exercicio6CalculoDesconto();
     }
 
+
     static void exercicio1Media() {
         double nota1 = 7.9;
         double nota2 = 9.5;
