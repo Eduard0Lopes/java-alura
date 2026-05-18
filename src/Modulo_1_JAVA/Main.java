@@ -1,5 +1,7 @@
+package Modulo_1_JAVA;
+
 public class Main {
-    public static void main(String[] args) {
+    static void main() {
          exercicio1Media();
          exercicio2Casting();
          exercicio3Palavras();

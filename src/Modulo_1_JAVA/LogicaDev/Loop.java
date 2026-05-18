@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 void main() {
     Scanner leitura = new Scanner(System.in);
     double mediaAvaliacao = 0;

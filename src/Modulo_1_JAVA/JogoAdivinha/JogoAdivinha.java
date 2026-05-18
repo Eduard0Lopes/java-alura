@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 void main() {
     System.out.println("Digite um numero entre 0 e 100");
     Scanner numberInput = new Scanner(System.in);
